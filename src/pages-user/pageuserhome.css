@@ -1,0 +1,33 @@
+.page-user-home__root {
+    background-color: #fff;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.page-user-home__body {
+    background-color: #E7EEF8;
+    display: flex;
+    padding: 30px;
+    gap: 30px;
+}
+
+.page-user-home__button {
+    margin-bottom: 10px;
+    background: #88ABDA;
+    color: #000;
+    padding: 15px;
+    min-width: 130px;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 15;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.page-user-home__button:hover {
+    background: #547096
+}
